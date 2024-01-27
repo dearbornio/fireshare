@@ -32,7 +32,7 @@
     ·
     <a href="https://github.com/ShaneIsrael/fireshare/issues">Report a Bug</a>
     ·
-    <a href="https://www.paypal.com/paypalme/shaneisrael">Buy us a Coffee!</a>
+    <a href="https://ko-fi.com/soneknet">Buy us a Coffee!</a>
   </p>
 </p>
 

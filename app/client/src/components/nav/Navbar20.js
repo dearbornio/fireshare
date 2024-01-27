@@ -358,12 +358,12 @@ function Navbar20({
                 </LightTooltip>
                 <LightTooltip arrow title="Buy us a coffee!">
                   <IconButton
-                    aria-label="paypal-link"
+                    aria-label="kofi-link"
                     size="medium"
                     sx={{ p: 0.5, pointerEvents: 'all' }}
                     onClick={(e) => {
                       e.stopPropagation()
-                      window.open('https://www.paypal.com/paypalme/shaneisrael', '_blank')
+                      window.open('https://ko-fi.com/soneknet', '_blank')
                     }}
                   >
                     <VolunteerActivismIcon fontSize="inherit" />

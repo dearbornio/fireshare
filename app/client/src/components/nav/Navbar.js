@@ -287,10 +287,10 @@ const Navbar = ({ children, options = [], pages = [], feedView = false, authenti
             </LightTooltip>
             <LightTooltip arrow title="Buy us a coffee!">
               <IconButton
-                aria-label="paypal-link"
+                aria-label="kofi-link"
                 size="medium"
                 sx={{ p: 0.5, pointerEvents: 'all' }}
-                onClick={() => window.open('https://www.paypal.com/paypalme/shaneisrael', '_blank')}
+                onClick={() => window.open('https://ko-fi.com/soneknet', '_blank')}
               >
                 <VolunteerActivismIcon fontSize="inherit" />
               </IconButton>
